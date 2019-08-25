@@ -1,7 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
@@ -17,6 +16,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          m
         />
         <article>
           <header>
@@ -38,15 +38,19 @@ class BlogPostTemplate extends React.Component {
               {post.frontmatter.date}
             </p>
           </header>
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <section
+            style={{
+              backgroundColor: `rgba(68, 222, 140, 14%)`,
+              padding: `1.7em`,
+            }}
+            dangerouslySetInnerHTML={{ __html: post.html }}
+          />
           <hr
             style={{
               marginBottom: rhythm(1),
             }}
           />
-          <footer>
-            <Bio />
-          </footer>
+          <footer></footer>
         </article>
 
         <nav>
