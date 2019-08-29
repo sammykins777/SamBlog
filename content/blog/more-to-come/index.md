@@ -1,7 +1,6 @@
 ---
 title: More to come
 date: "2019-08-02"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 More to come. I have plans to try out some development things. Right now this is all hand-coded html and css. I would like to learn React, so I can make modular interfaces. I currently have all the elements such as header and footer copy and pasted into each html file. I'm prettys sure there's a more efficent way to do that.
