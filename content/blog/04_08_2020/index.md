@@ -1,13 +1,13 @@
 ---
 title: It's been a while
 date: "2020-04-18"
-description: "Updating my blog thatI haven't touched in six months"
+description: "Updating my blog that I haven't touched in six months"
 ---
 
-I've left my blog on the back burner. And now since I'm got laid off, I have time on my hands. 
+I've left my blog on the back burner. And now since I got laid off, I have time on my hands. 
 Also, I'm just revisting this blog so I can remember how all this works. Coming up with content seems harder than learning how to use Gatsby and other services to post your content.
 
- I also will not be spellchecking super hard or worrying about my grammar. I should add a comments section so other people can do it for me. They always do, and then they like to question your intelligence. Yes, there are times when I confuse *their* with *there* or *they're*. oH No, I'M a MoNSteR!
+ I also will not be spellchecking super hard or worrying about my grammar. Yes, there are times when I confuse *their* with *there* or *they're*. oH No, I'M a MoNSteR!
 
 I've been spending a lot of times practicing JavaScript. I signed up for a second beginner course and realized that I should probably just try and figure out some JS problems on my own. 
 Online training, associated slack channels, and web dev twitter have yielded some resources that seem to be helping with JS learning, but gotta admit, this will probably only be a hobby for me as I don't think I'll be able to learn enough in a timely manner to be employable. 
@@ -20,7 +20,9 @@ In case you were wondering what some of those resources were :
 
 I was gonna give you a whole bunch more stuff, but honestly, I've got this delivery service app buzzing in the background and since I need to hustle to keep these bills paid, I gotta go.
 
-My next goal is to add google analytics to this blog, so I can be depressed how I'm screaming into the internet void and no one is listening. 
+P.S. My next goal is to add google analytics to this blog, so I can be depressed how I'm screaming into the internet void and no one is listening. 
+
+P.S.S. If you want to spellcheck me or correct my grammar, you can head over to my [github](https://github.com/sammykins777/SamBlog) where I can figure out how to accept your pull request. Also, something I need to learn. 
 
  
 
