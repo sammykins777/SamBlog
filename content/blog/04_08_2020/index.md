@@ -16,7 +16,7 @@ In case you were wondering what some of those resources were :
 
 [Codewars]([title](https://www.codewars.com/)) - a place to practice writing algorithms, etc. I only use the training portion so I can get used to accessing arrays and solving the problem it presents. Still takes me hours to figure out the most basic problem. 
 
-[execute program](https://www.executeprogram.com/) - is a training platform that uses spaced repetition. It helps you let fundamentals sink in by slowing down the learning pace and making you review a lot.  I've tried Free Code Camp, but that didn't work for me. FCC would go over basic concepts and then have you solve a problem immediatly. The learning curve was steep and I drew a blank when trying to write the solution. Execute program seems to be that missing handholding I needed in between. This guy in the slack channel of the beginner course I'm taking told me about it. 
+[execute program](https://www.executeprogram.com/) - is a training platform that uses spaced repetition. It helps you let fundamentals sink in by slowing down the learning pace and making you review a lot.  I've tried Free Code Camp, but that didn't work for me. FCC would go over basic concepts and then have you solve a problem immediately. The learning curve was steep and I drew a blank when trying to write the solution. Execute program seems to be that missing handholding I needed in between. This guy in the slack channel of the beginner course I'm taking told me about it. 
 
 I was gonna give you a whole bunch more stuff, but honestly, I've got this delivery service app buzzing in the background and since I need to hustle to keep these bills paid, I gotta go.
 
