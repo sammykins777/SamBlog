@@ -1,3 +1,7 @@
 .full-blog-img {
   box-shadow: 25px 25px #44de8c;
 }
+
+a {
+  background-color: red;
+}

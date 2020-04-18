@@ -19,16 +19,7 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
+          <Link to={`/`}>{title}</Link>
         </h1>
       )
     } else {
@@ -61,7 +52,7 @@ class Layout extends React.Component {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <header style={{}}>
+        <header>
           <Bio />
         </header>
 
