@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `The Sam Chronicles`,
     author: `Samantha Lowe`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Learning Gatsby and other things.`,
+    siteUrl: `https://lucid-banach-b74f15.netlify.app/`,
     social: {
       twitter: `sammykins777`,
     },
@@ -50,7 +50,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-163992009-1`,
       },
     },
     `gatsby-plugin-feed`,
