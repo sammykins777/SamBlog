@@ -7,7 +7,7 @@ description: "Updating my blog that I haven't touched in six months"
 I've left my blog on the back burner. And now since I got laid off, I have time on my hands. 
 Also, I'm just revisting this blog so I can remember how all this works. Coming up with content seems harder than learning how to use Gatsby and other services to post your content.
 
- I also will not be spellchecking super hard or worrying about my grammar. Yes, there are times when I confuse *their* with *there* or *they're*. oH No, I'M a MoNSteR!
+ I also will not be spellchecking super hard or worrying about my grammar. Yes, there are times when I confuse *their* with *there* or *they're* or *your* with *you're*. oH No, I'M a MoNSteR!
 
 I've been spending a lot of times practicing JavaScript. I signed up for a second beginner course and realized that I should probably just try and figure out some JS problems on my own. 
 Online training, associated slack channels, and web dev twitter have yielded some resources that seem to be helping with JS learning, but gotta admit, this will probably only be a hobby for me as I don't think I'll be able to learn enough in a timely manner to be employable. 
