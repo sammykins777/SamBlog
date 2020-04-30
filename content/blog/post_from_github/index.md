@@ -17,9 +17,11 @@ Aloso there was a quick hack to make the folder structure that I needed. Actuall
 But to add a folder then a file to github, here's the [stackoverflow solution](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository). 
 I used the second popular answer.
 
-**Sweet, it totally worked**
+**Sweet, it totally worked.**
+
 Now anyone could submit a blog post if they wanted. 
 
 The next thing is to:
 - [] figure out how to accept pull requests or something? so if someone wants to contribute a blog or a code snippet I can accept it and fold it into the code. 
-I love that github shows you what has changed too. This was always confusing for me with the versioning in other places. Like on sharePoint. I think you could keep versions but you couldn't tell what was changed. When multipble contributers use google docs, I think you can revert back prior to the changes but it doesn't whow visually what changed. I don't think. 
+
+I love that github shows you what has changed. This was always confusing for me with the versioning in other places. Like on SharePoint. I think you could keep versions, but you couldn't tell what was changed. When multipble contributers use google docs, I think you can revert back to prior, but it doesn't show visually what changed, either. I don't think. 
