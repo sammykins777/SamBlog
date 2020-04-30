@@ -1,4 +1,8 @@
-# Attempting to add to blog directly from GitHub
+---
+title: Attempting to add blog directly from github
+date: "2020-04-30"
+description: "using github as a quasi CMS for blog"
+---
 
 I was wondering if it was possible to create a blog post directly from GitHub. This repository is linked to a netlify account and as soons as I make updates to it should publish my updates.
 This would be an easy way to add blogposts to blog without opening up VS code.
