@@ -1,9 +1,8 @@
-
 ---
 title: Gatsby Again!
 date: "2020-10-11"
+description: "A deeper dive into Gatsby"
 ---
-
 
 
 Decided to take another stab at learning Gatsby with Wes Bos' course [Master Gatsby](https://mastergatsby.com/). I stumbled onto Wes Bos and Syntax FM thanks to watching Brad Traversy's Youtube channel.
