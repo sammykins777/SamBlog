@@ -1,4 +1,10 @@
-#H1 Doing the Gatsby Thing Again
+
+---
+title: Gatsby Again!
+date: "2020-10-11"
+---
+
+
 
 Decided to take another stab at learning Gatsby with Wes Bos' course [Master Gatsby](https://mastergatsby.com/). I stumbled onto Wes Bos and Syntax FM thanks to watching Brad Traversy's Youtube channel.
 This course takes you through building the front end with Gatsby to include CSS styling as well as connecting to a 'headless' Content Management System (CMS) and I think deploying it a few different ways.
